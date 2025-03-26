@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe8dc47374a46044a93caba7dd18e244, type: 3}
+  m_Name: 0_FirstDungeon
+  m_EditorClassIdentifier: 
+  dungeonName: "\uCD08\uC2EC\uC790 \uB358\uC804"
+  dungeonExplain: "\uCC98\uC74C\uC73C\uB85C \uB3C4\uC804\uD558\uAC8C \uB418\uB294
+    \uB358\uC804\uC774\uB2E4."
+  dungeonBackground: {fileID: 21300000, guid: 8d1af707ddaa1d7498a59b91c9c4a958, type: 3}
+  dungeonLength: 15
+  dungeonSpecialEnemy:
+  - enemyGroup: {fileID: 11400000, guid: f061bd34810b55f4a835ce5597880bcf, type: 2}
+    enemyBattleBGM: {fileID: 8300000, guid: 2a0352222a761ed44b186d4e5e618d7f, type: 3}
+    enemyMeetCount: 15
+  enemyGroup:
+  - {fileID: 11400000, guid: aa8bcc5ab320d2b45ae4ec0152337e8e, type: 2}
+  - {fileID: 11400000, guid: c3ba4ebef37038e4c924402052b9eaba, type: 2}
+  - {fileID: 11400000, guid: 74caed400bf4e2a4882834995d5aad14, type: 2}
+  - {fileID: 11400000, guid: 805f48d8c758c6340911514a7af70098, type: 2}
+  - {fileID: 11400000, guid: 805f48d8c758c6340911514a7af70098, type: 2}
+  - {fileID: 11400000, guid: 805f48d8c758c6340911514a7af70098, type: 2}
+  - {fileID: 11400000, guid: 805f48d8c758c6340911514a7af70098, type: 2}
+  - {fileID: 11400000, guid: 805f48d8c758c6340911514a7af70098, type: 2}
+  - {fileID: 11400000, guid: 805f48d8c758c6340911514a7af70098, type: 2}
+  dungeonBGM: {fileID: 8300000, guid: 4b06f1332db053546ae61e7d54da254a, type: 3}
+  dungeonBattleBGM: {fileID: 8300000, guid: 26c9eaf55d181824b8f6f6fff1f7ee1b, type: 3}
+  dungeonClearGold: 1000
+  selectDungeonImage: {fileID: 21300000, guid: 844328502aa0ba449b1ef3b42f54640c, type: 3}
+  dungeonDifficulty: 1
+  dungeonNeedGameProgress: 0
+  isDungeonClear: 1

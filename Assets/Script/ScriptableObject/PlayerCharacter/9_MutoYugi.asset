@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c71fe188d4296094fb8a8977d9696035, type: 3}
+  m_Name: 9_MutoYugi
+  m_EditorClassIdentifier: 
+  status:
+    name: "\uC720\uC6B0\uAE30"
+    face: {fileID: 21300000, guid: b8f2a7f1764907147bbe7ceb8941458e, type: 3}
+    characterRank: 0
+    characterUpgrade: 0
+    upgradeMaxEXP: 100
+    upgradeEXP: 0
+    characterIP: 7
+    voiceType: 10
+    maxHP: 100
+    maxMP: 100
+    ATK: 10
+    MAK: 10
+    DEF: 10
+    MDF: 10
+    INT: 10
+    STA: 10
+    maxHPValue: 3
+    maxMPValue: 3
+    ATKValue: 3
+    MAKValue: 3
+    DEFValue: 3
+    MDFValue: 3
+    INTValue: 3
+    STAValue: 3
+    characterIndex: 9

@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9dd81e3d7ea0374492a688017a9c5e9, type: 3}
+  m_Name: 1_Doggy
+  m_EditorClassIdentifier: 
+  status:
+    name: "\uBA4D\uBB49\uC774"
+    face: {fileID: 2818415227679610127, guid: 6d1fcc37f6f43d8468eac8b978fd30a9, type: 3}
+    characterRank: 0
+    characterUpgrade: 0
+    upgradeMaxEXP: 0
+    upgradeEXP: 0
+    characterIP: 0
+    voiceType: 0
+    maxHP: 60
+    maxMP: 30
+    ATK: 6
+    MAK: 6
+    DEF: 5
+    MDF: 5
+    INT: 5
+    STA: 5
+    characterDefaultAttackNum: 0
+    maxHPValue: 0
+    maxMPValue: 0
+    ATKValue: 0
+    MAKValue: 0
+    DEFValue: 0
+    MDFValue: 0
+    INTValue: 0
+    STAValue: 0
+    characterIndex: 0
+  aiSkill:
+  - skillNum: 0
+    skillUseFrequency: 1
+  dropGold: 100
+  dropEXP: 15

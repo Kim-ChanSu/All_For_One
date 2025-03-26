@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9dd81e3d7ea0374492a688017a9c5e9, type: 3}
+  m_Name: 2_Foxy
+  m_EditorClassIdentifier: 
+  status:
+    name: "\uC5EC\uC6C5"
+    face: {fileID: 7465142125412689177, guid: fa64adac53723da40a13ecf38f7fef15, type: 3}
+    characterRank: 0
+    characterUpgrade: 0
+    upgradeMaxEXP: 0
+    upgradeEXP: 0
+    characterIP: 0
+    voiceType: 0
+    maxHP: 70
+    maxMP: 20
+    ATK: 11
+    MAK: 5
+    DEF: 2
+    MDF: 2
+    INT: 9
+    STA: 5
+    characterDefaultAttackNum: 0
+    maxHPValue: 0
+    maxMPValue: 0
+    ATKValue: 0
+    MAKValue: 0
+    DEFValue: 0
+    MDFValue: 0
+    INTValue: 0
+    STAValue: 0
+    characterIndex: 0
+  aiSkill:
+  - skillNum: 0
+    skillUseFrequency: 1
+  dropGold: 100
+  dropEXP: 15

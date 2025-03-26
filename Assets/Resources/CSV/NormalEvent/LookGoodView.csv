@@ -1,0 +1,5 @@
+Branch,Talker,Event,Content,Key,Part
+0,,,당신은 길을 가다가 멋진 경치를 보았다.,,
+0,,PlayVoice,BattleWin,,
+0,EXP,IncreaseStatus,15,,
+0,,,멋진 경치를 본 것으로 인해 경험치가 증가하였다.,,
